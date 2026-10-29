@@ -1,0 +1,34 @@
+{
+<<<<<<< HEAD
+  "name": "eci-election-portal-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+=======
+  "name": "eci-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+>>>>>>> 70108038339f07e1273cf82609242007d0340237
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+<<<<<<< HEAD
+    "dotenv": "^16.6.1",
+    "eci-election-portal": "file:..",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5"
+  },
+  "private": true
+}
+=======
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.0"
+  }
+}
+>>>>>>> 70108038339f07e1273cf82609242007d0340237

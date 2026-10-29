@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+<<<<<<< HEAD
+=======
+frontend/package-lock.json
+>>>>>>> 70108038339f07e1273cf82609242007d0340237

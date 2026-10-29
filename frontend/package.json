@@ -1,0 +1,40 @@
+{
+<<<<<<< HEAD
+  "name": "eci-election-portal-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+=======
+  "name": "eci-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+>>>>>>> 70108038339f07e1273cf82609242007d0340237
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "@vitejs/plugin-react": "^4.3.4",
+    "eci-election-portal": "file:..",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.1",
+    "vite": "^6.0.7"
+  }
+}
+=======
+    "axios": "^1.6.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  }
+}
+>>>>>>> 70108038339f07e1273cf82609242007d0340237
